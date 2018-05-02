@@ -13,14 +13,13 @@ Notify.lk supports following integrations.
 * [Zapier App](http://github.com/notifylk/notify-php)
 
 ### PHP Integration
-![PHP Logo](https://www.notify.lk/wp-content/uploads/2017/11/php-ico.jpg)
+
 
 * Find the [PHP Library here](http://github.com/notifylk/notify-php). 
 * Follow [this document](https://github.com/notifylk/notify-php/blob/master/README.md) to read how to integrate PHP library.
 
 ### WooCommerce Integration
 
-![WooCommerce Logo](https://www.notify.lk/wp-content/uploads/2017/11/woocommerce-ico.jpg)
 
 Notify.lk provides a WooCommerce addon plugin for you to setup SMS for your customers directly from the WooCommerce store. The plugin supports sending SMS for any of purchase events.
 
