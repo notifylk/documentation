@@ -15,8 +15,8 @@ Notify.lk supports following integrations.
 ### PHP Integration
 
 
-* Find the [PHP Library here](http://github.com/notifylk/notify-php). 
-* Follow [this document](https://github.com/notifylk/notify-php/blob/master/README.md) to read how to integrate PHP library.
+* [Find the PHP Library here](http://github.com/notifylk/notify-php). 
+* [Follow this document](https://github.com/notifylk/notify-php/blob/master/README.md) to read how to integrate PHP library.
 
 ### WooCommerce Integration
 
