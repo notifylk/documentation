@@ -1,3 +1,3 @@
-# page-documentation
+# PHP Integration
 
-## This is used by our GitHub page.
+## Integrating your PHP applcation to send SMS
