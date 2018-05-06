@@ -35,6 +35,8 @@ Need to integrate Notify.lk with a custom development? No worries, we have a gui
 
 * [Browse the documentation for Direct API Endpoints](/api-endpoints)
 
+---
+
 See something missing? Please contact us and let us know your concern. 
 
 We are always happy to help with integrations.
