@@ -4,7 +4,7 @@
 
 Use this endpoint directly to send SMS to a contact number.
 
-### Request
+### _Request_
 
 URL : `https://app.notify.lk/api/v1/send`
 
@@ -38,11 +38,37 @@ You will get a JSON response in a success or a failure attempt.
 
 #### _Example Call_
 
-Replace `[API_KEY]` and `[USER_ID]` with your account information and `[TO]` with the phone number you need to receive the SMS to. And then visit the URL with your browser.
-
-You can find your account's API information [here](https://app.notify.lk/settings/api-keys) .
-
 ```
 https://app.notify.lk/api/v1/status?user_id=[USER_ID]&api_key=[API_KEY]&sender_id=NotifyDEMO&to=[TO]&message=Test
 ```
 
+Replace `[API_KEY]` and `[USER_ID]` with your account information and `[TO]` with the phone number you need to receive the SMS to. And then visit the URL with your browser.
+
+You can find your account's API information [here](https://app.notify.lk/settings/api-keys) .
+
+## Account Status 
+
+You can use this API endpoint to retrieve account status and the account balance.
+
+### _Request_
+
+URL : `https://app.notify.lk/api/v1/status`
+
+Type: `GET`
+
+#### _Parameters_
+
+| Key | Required | Value |
+| --- | --- | --- |
+| `user_id` | YES | User ID from your settings page. |
+| `api_key` | YES | API key from your settings page. |
+
+#### _Example Call_
+
+```
+http://app.notify.lk/api/v1/status?user_id=[USER_ID]&api_key=[API_KEY]
+```
+
+Replace `[API_KEY]` and `[USER_ID]` with your account information and `[TO]` with the phone number you need to receive the SMS to. And then visit the URL with your browser.
+
+You can find your account's API information [here](https://app.notify.lk/settings/api-keys) .
