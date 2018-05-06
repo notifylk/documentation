@@ -29,7 +29,7 @@ Type: `GET` or `POST`
 
 You will get a JSON response in a success or a failure attempt.
 
-```
+```json
 {
  "status": "success",
  "data": "Sent"
@@ -62,6 +62,20 @@ Type: `GET`
 | --- | --- | --- |
 | `user_id` | YES | User ID from your settings page. |
 | `api_key` | YES | API key from your settings page. |
+
+#### _Response_
+
+You will get a JSON response in a success attempt.
+
+```json
+{
+    "status": "success",
+    "data": {
+        "active": true,
+        "acc_balance": 3500.00
+    }
+}
+```
 
 #### _Example Call_
 
