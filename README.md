@@ -1,4 +1,4 @@
-# Integrations
+# Notify.LK API Integration Guide
 Here's how to integrate Notify.lk SMS with your existing application. Please contact us if you need support with a new integration which is not available below.
 Notify.lk supports following integrations.
 
