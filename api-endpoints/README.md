@@ -86,6 +86,6 @@ You will get a JSON response in a success attempt.
 http://app.notify.lk/api/v1/status?user_id=[USER_ID]&api_key=[API_KEY]
 ```
 
-Replace `[API_KEY]` and `[USER_ID]` with your account information and `[TO]` with the phone number you need to receive the SMS to. And then visit the URL with your browser.
+Replace `[API_KEY]` and `[USER_ID]` with your account information. And then visit the URL with your browser.
 
 You can find your account's API information [here](https://app.notify.lk/settings/api-keys) .
