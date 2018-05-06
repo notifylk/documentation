@@ -1,5 +1,8 @@
 # Direct Endpoints for Notify.lk SMS Actions
 
+1. [Send SMS](#send-sms)
+2. [Account Status](#account-status)
+
 ## Send SMS
 
 Use this endpoint directly to send SMS to a contact number.
