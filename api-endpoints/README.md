@@ -10,7 +10,7 @@ URL : `https://app.notify.lk/api/v1/send`
 
 #### _Parameters_
 | Key | Required | Value |
-| --- | --- | --- |
+| ----------- | ----------- | ----------- |
 | `user_id` | YES | User ID from your settings page. |
 | `api_key` | YES | API key from your settings page. |
 | `sender_id` | YES | Your approved Sender ID. Use “NotifyDEMO” for testing. This one is case sensitive. |
