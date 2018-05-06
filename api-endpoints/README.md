@@ -25,6 +25,13 @@ URL : `https://app.notify.lk/api/v1/send`
 
 #### _Response_
 
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 You will get a JSON response in a success or a failure attempt.
 
 ```
