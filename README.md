@@ -38,3 +38,5 @@ Need to integrate Notify.lk with a custom development? No worries, we have a gui
 See something missing? Please contact us and let us know your concern. 
 
 We are always happy to help with integrations.
+
+[<< Go to Notify.lk Home Page](https://www.notify.lk)
