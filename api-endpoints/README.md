@@ -9,6 +9,7 @@ Use this endpoint directly to send SMS to a contact number.
 URL : `https://app.notify.lk/api/v1/send`
 
 #### _Parameters_
+
 | Key | Required | Value |
 | ----------- | ----------- | ----------- |
 | `user_id` | YES | User ID from your settings page. |
