@@ -1,4 +1,4 @@
-[<< Back to Support Home](/)
+[<< Back to Developer Home](/)
 
 # Direct Endpoints for Notify.lk SMS Actions
 
@@ -96,4 +96,4 @@ You can find your account's API information [here](https://app.notify.lk/setting
 
 ---
 
-[<< Back to Support Home](/)
+[<< Back to Developer Home](/)
