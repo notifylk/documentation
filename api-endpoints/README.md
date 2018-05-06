@@ -51,6 +51,8 @@ Replace `[API_KEY]` and `[USER_ID]` with your account information and `[TO]` wit
 
 You can find your account's API information [here](https://app.notify.lk/settings/api-keys) .
 
+--------
+
 ## Account Status 
 
 You can use this API endpoint to retrieve account status and the account balance.
@@ -91,5 +93,7 @@ http://app.notify.lk/api/v1/status?user_id=[USER_ID]&api_key=[API_KEY]
 Replace `[API_KEY]` and `[USER_ID]` with your account information. And then visit the URL with your browser.
 
 You can find your account's API information [here](https://app.notify.lk/settings/api-keys) .
+
+---
 
 [<< Back to Support Home](/)
