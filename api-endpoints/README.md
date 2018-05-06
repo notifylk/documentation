@@ -11,7 +11,7 @@ URL : `https://app.notify.lk/api/v1/send`
 #### _Parameters_
 
 | Key | Required | Value |
-| ----------- | ----------- | ----------- |
+| --- | --- | --- |
 | `user_id` | YES | User ID from your settings page. |
 | `api_key` | YES | API key from your settings page. |
 | `sender_id` | YES | Your approved Sender ID. Use “NotifyDEMO” for testing. This one is case sensitive. |
@@ -24,13 +24,6 @@ URL : `https://app.notify.lk/api/v1/send`
 | `contact_group` | NO | (Optional) Contact Group Id, if you need to assign the saving contact to a group. |
 
 #### _Response_
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 You will get a JSON response in a success or a failure attempt.
 
