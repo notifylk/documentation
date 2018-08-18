@@ -44,7 +44,7 @@ You will get a JSON response in a success or a failure attempt.
 #### _Example Call_
 
 ```
-https://app.notify.lk/api/v1/status?user_id=[USER_ID]&api_key=[API_KEY]&sender_id=NotifyDEMO&to=[TO]&message=Test
+https://app.notify.lk/api/v1/send?user_id=[USER_ID]&api_key=[API_KEY]&sender_id=NotifyDEMO&to=[TO]&message=Test
 ```
 
 Replace `[API_KEY]` and `[USER_ID]` with your account information and `[TO]` with the phone number you need to receive the SMS to. And then visit the URL with your browser.
