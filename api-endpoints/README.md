@@ -29,6 +29,7 @@ Type: `GET` or `POST`
 | `contact_email` | NO | (Optional) Email of the contact. Will be used while saving the contact. |
 | `contact_address` | NO | (Optional) Local address of the contact. Will be used while saving the contact. |
 | `contact_group` | NO | (Optional) Contact Group Id, if you need to assign the saving contact to a group. |
+| `type`| NO | (Optional) Provide this with `unicode`, to enable unicode. |
 
 #### _Response_
 
