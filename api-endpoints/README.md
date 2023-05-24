@@ -23,7 +23,7 @@ Type: `GET` or `POST`
 | `api_key` | YES | API key from your settings page. |
 | `sender_id` | YES | Your approved Sender ID. Use “NotifyDEMO” for testing. This one is case sensitive. |
 | `to` | YES | The number of the recipient. Should be in the format of 9471XXXXXXX. |
-| `message` | YES | The message. Max: 800 chars. |
+| `message` | YES | The message. Max: 621 chars. |
 | `contact_fname` | NO | (Optional) First name of the contact. Will be used while saving the contact. |
 | `contact_lname` | NO | (Optional) Last name of the contact. Will be used while saving the contact. |
 | `contact_email` | NO | (Optional) Email of the contact. Will be used while saving the contact. |
