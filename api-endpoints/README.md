@@ -52,6 +52,12 @@ Replace `[API_KEY]` and `[USER_ID]` with your account information and `[TO]` wit
 
 You can find your account's API information [here](https://app.notify.lk/settings/api-keys) .
 
+> [!IMPORTANT]  
+> Please avoid sending OTP content with our DEMO sender name. If you want to test OTP please get you own Sender ID approved first and start. Otherwise there's a risk of getting your account suspended.
+>
+> Also, even after getting your own name please use your app website or brand name in the SMS content as well to continue successful delivery.
+> Eg: `Please use the code 111111 to verify your ABC account.`
+
 --------
 
 ## Account Status 
